@@ -1,3 +1,3 @@
-var a = 123
-var b = 12
+var a ="app"
+var b = "le"
 console.log(a+b)
