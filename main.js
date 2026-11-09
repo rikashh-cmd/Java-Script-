@@ -1,3 +1,3 @@
-var a = 22
-var b = 34
+var a = 123
+var b = 12
 console.log(a+b)
