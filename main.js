@@ -1,2 +1,2 @@
-const first = "Ari";
-const greeting = `Hello, ${first}!`;
+const total = 3;
+console.log(`You have ${total} messages.`);
