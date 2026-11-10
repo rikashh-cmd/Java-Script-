@@ -1,3 +1,4 @@
-var a = 123
-var b = 123
-console.log(a+b)
+const name = "Maya";
+let score = 0;
+
+score = score + 10;
