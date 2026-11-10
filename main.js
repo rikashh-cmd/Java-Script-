@@ -1,4 +1,2 @@
-const name = "Maya";
-let score = 0;
-
-score = score + 10;
+const first = "Ari";
+const greeting = `Hello, ${first}!`;
